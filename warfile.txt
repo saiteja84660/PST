@@ -1,0 +1,4 @@
+https://github.com/devopsbyrushi/warpratice/tree/master
+
+clone this url in to your local
+and upload in to your github repository
